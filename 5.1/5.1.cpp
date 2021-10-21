@@ -21,4 +21,3 @@ double k(const double x, const double y) // визначення
 {
 	return x / (1 + sin(y) * sin(y)) + y / (1 + x * x);
 }
-
